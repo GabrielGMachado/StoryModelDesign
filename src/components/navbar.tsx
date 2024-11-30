@@ -26,7 +26,7 @@ export default function Navbar () {
                 <div className="w-px h-4 bg-zinc-700"></div>
                 <Link href='/' className="flex items-center gap-3 hover:underline">
                 <span className="text-sm">Account</span>
-                <Image src="https://github.com/diego3g.png" className="h-8 w-8 rounded-full" width={32} height={32} alt="user"/>
+                <Image src="https://github.com/GabrielGMachado.png" className="h-8 w-8 rounded-full" width={32} height={32} alt="user"/>
                 </Link>
             </div>
         </div>
